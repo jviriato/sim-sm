@@ -12,7 +12,7 @@ O programa usa as seguintes bibliotecas:
 * [terminaltables](https://github.com/Robpol86/terminaltables)
 
 ### Contribua
-Caso queira adicionar uma nova função, encontrou um bug ou sugestão, faça um pull request ou um abra uma issue. :)
+Caso queira adicionar uma nova função, encontrou um bug ou sugestão, faça um pull request ou abra uma issue. :)
 
 ### Licença
 MIT © José Victor Viriato
