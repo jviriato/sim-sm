@@ -14,15 +14,38 @@ Linha universidade, saindo da UFSM no dia de hoje
 ```bash
 sim-sm universidade ufsm hoje
 ```
+
+
 Você também pode filtrar por faixa velha/nova:
 ```bash
 sim-sm universidade ufsm hoje -fn
 ```
 Irá mostrar apenas ônibus que passarão pela faixa nova.
 
+
 Linha bombeiros, saindo do bairro no sábado
 ```bash
 sim-sm bombeiros bairro sabado
+```
+
+### Docs
+```bash
+usage: sim-sm.py [-h] [-fv FV] [-fn FN] linha saida dia
+
+positional arguments:
+  linha                 Linha do ônibus. Exemplo: universidade, bombeiros,
+                        circular
+  saida                 De onde o ônibus sairá. Exemplo: bairro, centro, ufsm
+  dia                   Hoje: hoje Dias úteis: util Sábado: sabado Domingos e
+                        feriados: domingo
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -fv FV, -faixa-velha FV
+                        Para listar somente ônibus que passam pela faixa
+                        velha.
+  -fn FN, -faixa-nova FN
+                        Para listar somente ônibus que passam pela faixa nova.
 ```
 
 ### Dependências
