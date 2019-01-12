@@ -14,15 +14,13 @@ Linha universidade, saindo da UFSM no dia de hoje
 ```bash
 sim-sm universidade ufsm hoje
 ```
-
-
+\
 Você também pode filtrar por faixa velha/nova:
 ```bash
 sim-sm universidade ufsm hoje -fn
 ```
-Irá mostrar apenas ônibus que passarão pela faixa nova.
 
-
+  
 Linha bombeiros, saindo do bairro no sábado
 ```bash
 sim-sm bombeiros bairro sabado
