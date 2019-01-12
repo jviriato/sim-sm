@@ -7,6 +7,19 @@ Basta executar o seguinte comando no terminal:
 pip install sim-sm
 ```
 
+### Utilização
+O programa deve conter três argumentos: linha, saída, e dia. Exemplo:
+
+Linha universidade, saindo da UFSM no dia de hoje
+```bash
+sim-sm universidade ufsm hoje
+```
+
+Linha bombeiros, saindo do bairro no sábado
+```bash
+sim-sm bombeiros bairro sabado
+```
+
 ### Dependências
 O programa usa as seguintes bibliotecas:
 * [terminaltables](https://github.com/Robpol86/terminaltables)
