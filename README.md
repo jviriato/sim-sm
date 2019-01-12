@@ -19,8 +19,7 @@ Você também pode filtrar por faixa velha/nova:
 ```bash
 sim-sm universidade ufsm hoje -fn
 ```
-
-  
+\
 Linha bombeiros, saindo do bairro no sábado
 ```bash
 sim-sm bombeiros bairro sabado
