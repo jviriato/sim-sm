@@ -27,5 +27,9 @@ O programa usa as seguintes bibliotecas:
 ### Contribua
 Caso queira adicionar uma nova função, encontrou um bug ou sugestão, faça um pull request ou abra uma issue. :)
 
+**To do:**
+* Identificar feriados
+* Adicionar todas as linhas do site SIM - SM (No momento tem apenas as linhas que vão até o campus)
+
 ### Licença
 MIT © José Victor Viriato
