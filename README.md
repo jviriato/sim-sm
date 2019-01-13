@@ -17,6 +17,7 @@ simsm universidade ufsm hoje
 <p align="center">
   <img src="https://raw.githubusercontent.com/jviriato/sim-sm/master/img/exemplo.png" />
 </p>
+
 \
 Você também pode filtrar por faixa velha/nova:
 ```bash
